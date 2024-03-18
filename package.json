@@ -1,0 +1,23 @@
+{
+  "name": "tuphamdev",
+  "version": "1.0.0",
+  "description": "tuphamDEV",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon rest/test.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "tuphamDEV",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "3.1.9",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.0"
+  }
+}
